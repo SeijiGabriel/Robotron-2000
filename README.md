@@ -1,5 +1,20 @@
 # Robotron-2000
 
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Titulo do meu projeto**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | https://robotron-2000-fawn.vercel.app/
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-dom
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://user-images.githubusercontent.com/104286173/204635534-95bea3bf-85aa-415c-a547-40912b5cf5f2.png#vitrinedev)
+
+
+## Detalhes do projeto
+
 Projeto desenvolvido durante o curso de **"JavaScript: manipulando o DOM"** da escola de tecnologia Alura, o projeto utiliza em seu desenvolvimento HTML, CSS porém com foco em JavaScript tais como:
 
 • Manipulação de DOM
@@ -10,7 +25,3 @@ Projeto desenvolvido durante o curso de **"JavaScript: manipulando o DOM"** da e
 ## Desafio final concluído:
 
 • Trocar a cor do Robotron ao clicar.
-
-<img width="1430" alt="Captura de Tela 2022-11-29 às 16 58 15" src="https://user-images.githubusercontent.com/104286173/204635534-95bea3bf-85aa-415c-a547-40912b5cf5f2.png">
-
-## Acesse o projeto por esse [Link!](https://robotron-2000-fawn.vercel.app/)
